@@ -1,8 +1,7 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-# 
-/backend/myenv
-/backend/venv
+# Virtual Env
+myenv/
 
 # dependencies
 /node_modules
